@@ -20,10 +20,10 @@ Once you have the API key, write it inside the 'example.env' file and rename the
 ## Datasets and Pre-trained model checkpoints
 You can either prepare data and train your own model or download the already prepared dataset files and model checkpoints.
 ### Datasets
-* Place raw data [file]() under the folder: 'data/raw/'
-* Place processed data [file]() under the folder: 'data/processed/'
+* Place raw data [file](https://drive.google.com/drive/folders/1OkwNdpAzwk_nXBUd6IV4ujZ0eUEDwYYX?usp=sharing) under the folder: 'data/raw/'
+* Place processed data [file](https://drive.google.com/drive/folders/1OkwNdpAzwk_nXBUd6IV4ujZ0eUEDwYYX?usp=sharing) under the folder: 'data/processed/'
 ### Checkpoints
-* Place model [file]() under the folder: 'models/'
+* Place model [file](https://drive.google.com/drive/folders/1OkwNdpAzwk_nXBUd6IV4ujZ0eUEDwYYX?usp=sharing) under the folder: 'models/'
 
 ## How to run?
 * Prepare raw data by running notebooks/data_preparation.ipynb
