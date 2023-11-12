@@ -1,5 +1,6 @@
 data/
-visualizations/
+visualizations/columns_distributions
+visualizations/results
 models/
 # Byte-compiled / optimized / DLL files
 __pycache__/

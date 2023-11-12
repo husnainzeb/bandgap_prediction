@@ -1,3 +1,8 @@
-pandas
+python-dotenv
+mp-api
+mpcontribs-client
+matminer
 scikit-learn
 openpyxl
+custodian
+
