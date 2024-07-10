@@ -30,3 +30,5 @@ You can either prepare data and train your own model or download the already pre
 ## How to run?
 * Prepare raw data by running notebooks/data_preparation.ipynb
 * Predict bandgaps by running notebooks/bandgap_prediction.ipynb
+## Publication
+*The work has been published and you can find it at https://doi.org/10.1002/adts.202400190
